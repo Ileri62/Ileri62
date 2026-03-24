@@ -1,4 +1,4 @@
-# Hi there, I'm [Engraced] 👋
+# Hi there, I'm Engraced 👋
 
 ### 🚀 IT Trainer | Python Developer | Data & ML Enthusiast
 I am currently on a 90-day intensive journey to master Python for Data Analytics and Machine Learning, with a specific focus on **Civic Tech**—using technology to improve public services and community engagement.
